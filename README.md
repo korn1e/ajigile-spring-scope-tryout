@@ -1,0 +1,1 @@
+"# ajigile-spring-scope-tryout" 
